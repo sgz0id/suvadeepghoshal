@@ -1,0 +1,46 @@
+body {
+  background-color: #f3ecc2;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+img {
+  height: 200px;
+}
+.home {
+  height: 50px;
+}
+.follow {
+  height: 30px;
+}
+h1 {
+  color: #14b1ab;
+}
+h2 {
+  color: #14b1ab;
+}
+h3 {
+  color: #e8505b;
+}
+p {
+  color: #3b6978;
+}
+li {
+  color: #204051;
+}
+th {
+  color: #e8505b;
+}
+td {
+  color: #086972;
+}
+label {
+  color: #086972;
+}
+#technical {
+  color: #e8505b;
+}
